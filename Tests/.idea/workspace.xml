@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec6d0f4f-3e6c-4153-93c0-62dd4f928389" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Tests$py_test_in_KL_EFS_Test_Invest_Add_py.coverage" NAME="py.test in KL_EFS_Test_Invest_Add.py Coverage Results" MODIFIED="1511540952767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_for_KL_MIDCITY_Emp_Event_Add_Midcity_Emp_Edit_Event.coverage" NAME="py.test for KL_MIDCITY_Emp_Event_Add.Midcity_Emp_Edit_Event Coverage Results" MODIFIED="1511549875424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_in_KL_MIDCITY_Emp_Event_Add_py.coverage" NAME="py.test in KL_MIDCITY_Emp_Event_Add.py Coverage Results" MODIFIED="1511545098576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1511302662473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_in_KL_EFS_Test_Login_py.coverage" NAME="py.test in KL_EFS_Test_Login.py Coverage Results" MODIFIED="1511304759623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_for_KL_EFS_Test_Invest_Add_EFS_Test_Login_test_log.coverage" NAME="py.test for KL_EFS_Test_Invest_Add.EFS_Test_Login.test_log Coverage Results" MODIFIED="1511541000528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_for_KL_EFS_Test_CustEdit_EFS_Test_Login_test_log.coverage" NAME="py.test for KL_EFS_Test_CustEdit.EFS_Test_Login.test_log Coverage Results" MODIFIED="1511307445935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_in_KL_EFS_Test_CustEdit_py.coverage" NAME="py.test in KL_EFS_Test_CustEdit.py Coverage Results" MODIFIED="1511539765861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_for_KL_EFS_Test_Stock_Delete_EFS_Test_Stock_test_log.coverage" NAME="py.test for KL_EFS_Test_Stock_Delete.EFS_Test_Stock.test_log Coverage Results" MODIFIED="1511542043875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_for_KL_EFS_Test_Stock_Delete_EFS_Test_Stock.coverage" NAME="py.test for KL_EFS_Test_Stock_Delete.EFS_Test_Stock Coverage Results" MODIFIED="1511542447782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_for_KL_MIDCITY_Emp_Event_Edit_Midcity_Emp_Edit_Event_test_log.coverage" NAME="py.test for KL_MIDCITY_Emp_Event_Edit.Midcity_Emp_Edit_Event.test_log Coverage Results" MODIFIED="1511544708454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_for_KL_EFS_Test_CustEdit_EFS_Test_Login.coverage" NAME="py.test for KL_EFS_Test_CustEdit.EFS_Test_Login Coverage Results" MODIFIED="1511307753038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_for_KL_EFS_Test_Login_Blog_ATS.coverage" NAME="py.test for KL_EFS_Test_Login.Blog_ATS Coverage Results" MODIFIED="1511304486355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_for_KL_MIDCITY_Emp_Event_Add_Midcity_Emp_Edit_Event_test_log.coverage" NAME="py.test for KL_MIDCITY_Emp_Event_Add.Midcity_Emp_Edit_Event.test_log Coverage Results" MODIFIED="1511545379958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_in_KL_DjangoGirlsTest_py.coverage" NAME="py.test in KL_DjangoGirlsTest.py Coverage Results" MODIFIED="1511307559298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_in_KL_EFS_Test_Stock_Delete_py.coverage" NAME="py.test in KL_EFS_Test_Stock_Delete.py Coverage Results" MODIFIED="1511542572701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_for_test1_Blog_ATS.coverage" NAME="py.test for test1.Blog_ATS Coverage Results" MODIFIED="1511302710421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_for_KL_EFS_Test_Login_EFS_Test_Login.coverage" NAME="py.test for KL_EFS_Test_Login.EFS_Test_Login Coverage Results" MODIFIED="1511304891840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_for_KL_EFS_Test_Invest_Add_EFS_Test_Login.coverage" NAME="py.test for KL_EFS_Test_Invest_Add.EFS_Test_Login Coverage Results" MODIFIED="1511540878050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_in_KL_MIDCITY_Emp_Event_Edit_py.coverage" NAME="py.test in KL_MIDCITY_Emp_Event_Edit.py Coverage Results" MODIFIED="1511549830455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_in_test1_py.coverage" NAME="py.test in test1.py Coverage Results" MODIFIED="1511301909930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tests$py_test_for_KL_MIDCITY_Emp_Event_Add_EFS_Test_Customer_test_log.coverage" NAME="py.test for KL_MIDCITY_Emp_Event_Add.EFS_Test_Customer.test_log Coverage Results" MODIFIED="1511544591525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="KL_DjangoGirlsTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KL_DjangoGirlsTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KL_EFS_Test_Login.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KL_EFS_Test_Login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KL_EFS_Test_CustEdit.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KL_EFS_Test_CustEdit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="71" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KL_EFS_Test_Invest_Add.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KL_EFS_Test_Invest_Add.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-486">
+              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KL_EFS_Test_Stock_Delete.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KL_EFS_Test_Stock_Delete.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KL_MIDCITY_Emp_Event_Edit.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KL_MIDCITY_Emp_Event_Edit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="70" column="27" lean-forward="true" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KL_MIDCITY_Emp_Event_Add.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/KL_MIDCITY_Emp_Event_Add.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test1.py" />
+        <option value="$PROJECT_DIR$/EFS_Test_Login.py" />
+        <option value="$PROJECT_DIR$/E.py" />
+        <option value="$PROJECT_DIR$/EFS_Test_Invest_Add.py" />
+        <option value="$PROJECT_DIR$/EFS_Test_Stock_Delete.py" />
+        <option value="$PROJECT_DIR$/KL_EFS_Test_Login.py" />
+        <option value="$PROJECT_DIR$/KL_DjangoGirlsTest.py" />
+        <option value="$PROJECT_DIR$/KL_EFS_Test_Invest_Add.py" />
+        <option value="$PROJECT_DIR$/KL_EFS_Test_CustEdit.py" />
+        <option value="$PROJECT_DIR$/KL_EFS_Test_Stock_Delete.py" />
+        <option value="$PROJECT_DIR$/KL_MIDCITY_Emp_Event_Add.py" />
+        <option value="$PROJECT_DIR$/KL_MIDCITY_Emp_Event_Edit.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1042" />
+    <option name="y" value="27" />
+    <option name="width" value="855" />
+    <option name="height" value="953" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.py.test for KL_MIDCITY_Emp_Event_Add.Midcity_Emp_Edit_Event">
+    <configuration name="py.test for KL_MIDCITY_Emp_Event_Add.Midcity_Emp_Edit_Event" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Tests" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;KL_MIDCITY_Emp_Event_Add.Midcity_Emp_Edit_Event&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test for KL_MIDCITY_Emp_Event_Add.Midcity_Emp_Edit_Event.test_log" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Tests" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;KL_MIDCITY_Emp_Event_Add.Midcity_Emp_Edit_Event.test_log&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test for KL_MIDCITY_Emp_Event_Edit.Midcity_Emp_Edit_Event.test_log" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Tests" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;KL_MIDCITY_Emp_Event_Edit.Midcity_Emp_Edit_Event.test_log&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test in KL_MIDCITY_Emp_Event_Add.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Tests" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/KL_MIDCITY_Emp_Event_Add.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="py.test in KL_MIDCITY_Emp_Event_Edit.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Tests" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/KL_MIDCITY_Emp_Event_Edit.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for KL_MIDCITY_Emp_Event_Edit.Midcity_Emp_Edit_Event.test_log" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in KL_MIDCITY_Emp_Event_Add.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for KL_MIDCITY_Emp_Event_Add.Midcity_Emp_Edit_Event.test_log" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in KL_MIDCITY_Emp_Event_Edit.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for KL_MIDCITY_Emp_Event_Add.Midcity_Emp_Edit_Event" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for KL_MIDCITY_Emp_Event_Add.Midcity_Emp_Edit_Event" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in KL_MIDCITY_Emp_Event_Edit.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for KL_MIDCITY_Emp_Event_Add.Midcity_Emp_Edit_Event.test_log" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in KL_MIDCITY_Emp_Event_Add.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for KL_MIDCITY_Emp_Event_Edit.Midcity_Emp_Edit_Event.test_log" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec6d0f4f-3e6c-4153-93c0-62dd4f928389" name="Default" comment="" />
+      <created>1511211684524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511211684524</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_for_KL_MIDCITY_Emp_Event_Add_EFS_Test_Customer_test_log - 2017.11.24 at 11h 29m 45s.xml">
+      <configuration name="py.test for KL_MIDCITY_Emp_Event_Add.EFS_Test_Customer.test_log" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_KL_MIDCITY_Emp_Event_Add_EFS_Test_Customer_test_log - 2017.11.24 at 11h 30m 13s.xml">
+      <configuration name="py.test for KL_MIDCITY_Emp_Event_Add.EFS_Test_Customer.test_log" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_KL_MIDCITY_Emp_Event_Add_Midcity_Emp_Edit_Event - 2017.11.24 at 12h 58m 33s.xml">
+      <configuration name="py.test for KL_MIDCITY_Emp_Event_Add.Midcity_Emp_Edit_Event" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_KL_MIDCITY_Emp_Event_Add_Midcity_Emp_Edit_Event_test_log - 2017.11.24 at 11h 41m 44s.xml">
+      <configuration name="py.test for KL_MIDCITY_Emp_Event_Add.Midcity_Emp_Edit_Event.test_log" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_KL_MIDCITY_Emp_Event_Add_Midcity_Emp_Edit_Event_test_log - 2017.11.24 at 11h 42m 24s.xml">
+      <configuration name="py.test for KL_MIDCITY_Emp_Event_Add.Midcity_Emp_Edit_Event.test_log" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_KL_MIDCITY_Emp_Event_Add_Midcity_Emp_Edit_Event_test_log - 2017.11.24 at 11h 43m 34s.xml">
+      <configuration name="py.test for KL_MIDCITY_Emp_Event_Add.Midcity_Emp_Edit_Event.test_log" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_KL_MIDCITY_Emp_Event_Edit_Midcity_Emp_Edit_Event_test_log - 2017.11.24 at 11h 30m 58s.xml">
+      <configuration name="py.test for KL_MIDCITY_Emp_Event_Edit.Midcity_Emp_Edit_Event.test_log" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_KL_MIDCITY_Emp_Event_Edit_Midcity_Emp_Edit_Event_test_log - 2017.11.24 at 11h 32m 27s.xml">
+      <configuration name="py.test for KL_MIDCITY_Emp_Event_Edit.Midcity_Emp_Edit_Event.test_log" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_KL_MIDCITY_Emp_Event_Add_py - 2017.11.24 at 11h 38m 35s.xml">
+      <configuration name="py.test in KL_MIDCITY_Emp_Event_Add.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_KL_MIDCITY_Emp_Event_Edit_py - 2017.11.24 at 12h 57m 48s.xml">
+      <configuration name="py.test in KL_MIDCITY_Emp_Event_Edit.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1042" y="27" width="855" height="953" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946634" sideWeight="0.5036649" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52097905" sideWeight="0.4963351" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33456334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/KL_DjangoGirlsTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KL_DjangoGirlsTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KL_EFS_Test_Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KL_EFS_Test_Invest_Add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KL_EFS_Test_CustEdit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="71" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KL_DjangoGirlsTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KL_EFS_Test_Stock_Delete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KL_MIDCITY_Emp_Event_Edit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="70" column="27" lean-forward="true" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KL_MIDCITY_Emp_Event_Add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
