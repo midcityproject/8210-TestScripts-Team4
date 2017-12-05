@@ -1,4 +1,6 @@
 {
   "KL_EFS_Test_Login.py": true,
-  "KL_MIDCITY_Emp_Event_Add.py::EFS_Test_Customer::test_log": true
+  "KL_MIDCITY_Emp_Event_Add.py::EFS_Test_Customer::test_log": true,
+  "VS_addEventsFromCSV.py::Midcity_ATS::test_blog": true,
+  "VS_edit_volunteer_hours.py::Midcity_ATS::test_blog": true
 }

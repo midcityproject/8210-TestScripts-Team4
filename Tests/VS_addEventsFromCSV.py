@@ -14,8 +14,8 @@ class Midcity_ATS(unittest.TestCase):
        self.driver = webdriver.Chrome()
 
    def test_blog(self):
-       user = "instructor"
-       pwd = "instructor1a"
+       user = "klumbard"
+       pwd = "School_6"
        driver = self.driver
        driver.maximize_window()
        driver.get("http://127.0.0.1:8000/admin/")
