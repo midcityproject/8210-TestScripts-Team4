@@ -18,7 +18,7 @@ class Midcity_ATS(unittest.TestCase):
        pwd = "School_6"
        driver = self.driver
        driver.maximize_window()
-       driver.get("http://127.0.0.1:8000/admin/")
+       driver.get("http://midcityproject.pythonanywhere.com/admin/")
        elem = driver.find_element_by_id("id_username")
        elem.send_keys(user)
        elem = driver.find_element_by_id("id_password")
@@ -27,9 +27,9 @@ class Midcity_ATS(unittest.TestCase):
 
        assert "Logged In"
        time.sleep(5)
-       driver.get("http://127.0.0.1:8000/admin/volunteer_activity/event/")
+       driver.get("http://midcityproject.pythonanywhere.com/admin/volunteer_activity/event/")
        time.sleep(7)
-       driver.get("http://127.0.0.1:8000/admin/volunteer_activity/event/add/")
+       driver.get("http://midcityproject.pythonanywhere.com/admin/volunteer_activity/event/add/")
        time.sleep(5)
        assert "Inside Event adding Page"
        count = 1
@@ -59,7 +59,7 @@ class Midcity_ATS(unittest.TestCase):
                    submit = driver.find_element_by_xpath("/html/body[@class=' app-volunteer_activity model-event change-form']/div[@id='container']/div[@id='content']/div[@id='content-main']/form[@id='event_form']/div/div[@class='submit-row']/input[2]").click()
                count = count + 1
 
-       driver.get("http://127.0.0.1:8000/admin/volunteer_activity/event/")
+       driver.get("http://midcityproject.pythonanywhere.com/admin/volunteer_activity/event/")
        time.sleep(7)
 
 

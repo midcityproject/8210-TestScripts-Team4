@@ -25,20 +25,20 @@ class test1(unittest.TestCase):
         assert "Logged In"
         time.sleep(5)
         driver.get("http://midcityproject.pythonanywhere.com/manage_activity/")
-        time.sleep(5)
+        time.sleep(1)
         driver.get("http://midcityproject.pythonanywhere.com/manage_activity/create/")
         time.sleep(5)
 
         hours= "25"
-        elem = driver.find_element_by_xpath("//select[@name='user_num']/option[text()='vjampani']").click()
-        elem = driver.find_element_by_xpath("//select[@name='event_num']/option[text()='200']").click()
+        elem = driver.find_element_by_xpath("//select[@name='user_num']/option[text()='instructor']").click()
+        elem = driver.find_element_by_xpath("//select[@name='event_num']/option[text()='100']").click()
         elem = driver.find_element_by_id("id_hours")
         elem.send_keys(hours)
         time.sleep(5)
-        elem = driver.find_element_by_css_selector("button.save.btn.btn-default").click()
-        time.sleep(5)
+        elem = driver.find_element_by_css_selector("button.save.btn.btn-raised.btn-success").click()
+        time.sleep(1)
         driver.get("http://midcityproject.pythonanywhere.com/manage_activity/")
-        time.sleep(5)
+        time.sleep(1)
         assert "Volunteer Activity Added"
 
     def tearDown(self):

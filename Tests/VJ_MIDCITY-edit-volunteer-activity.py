@@ -23,20 +23,22 @@ class test1(unittest.TestCase):
         assert "Logged In"
         time.sleep(5)
         driver.get("http://midcityproject.pythonanywhere.com/manage_activity/")
-        time.sleep(5)
-        driver.get("http://midcityproject.pythonanywhere.com/manage_activity/47/edit/")
-        time.sleep(5)
-
+        time.sleep(1)
+        driver.get("http://midcityproject.pythonanywhere.com/manage_activity/create/")
+        user_num = "klumbard"
+        event_num = "100"
         hours= "10"
-
+        elem = driver.find_element_by_id("id_user_num")
+        elem.send_keys(user_num)
+        elem = driver.find_element_by_id("id_event_num")
+        elem.send_keys(event_num)
         elem = driver.find_element_by_id("id_hours")
-        elem.clear()
         elem.send_keys(hours)
         time.sleep(5)
-        elem = driver.find_element_by_css_selector("button.save.btn.btn-default").click()
-        time.sleep(5)
+        elem = driver.find_element_by_css_selector("button.save.btn.btn-raised.btn-success").click()
+        time.sleep(1)
         driver.get("http://midcityproject.pythonanywhere.com/manage_activity/")
-        time.sleep(5)
+        time.sleep(1)
         assert "Volunteer Activity Edited"
 
     def tearDown(self):

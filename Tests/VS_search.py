@@ -13,7 +13,7 @@ class Midcity_ATS(unittest.TestCase):
        pwd = "instructor1a"
        driver = self.driver
        driver.maximize_window()
-       driver.get("http://127.0.0.1:8000/admin/")
+       driver.get("http://midcityproject.pythonanywhere.com/admin/")
        elem = driver.find_element_by_id("id_username")
        elem.send_keys(user)
        time.sleep(3)
@@ -25,7 +25,7 @@ class Midcity_ATS(unittest.TestCase):
        time.sleep(5)
        assert "Logged In"
        # goes to user page
-       driver.get("http://127.0.0.1:8000/admin/auth/user/")
+       driver.get("http://midcityproject.pythonanywhere.com/admin/auth/user/")
        time.sleep(5)
        assert "Inside Users Page"
        driver.find_element_by_xpath("/html/body[@class=' app-auth model-user change-list']/div[@id='container']/div[@id='content']/div[@id='content-main']/div[@id='changelist']/div[@id='toolbar']/form[@id='changelist-search']/div/input[@id='searchbar']").clear()
@@ -35,7 +35,7 @@ class Midcity_ATS(unittest.TestCase):
        elem = driver.find_element_by_xpath("/html/body[@class=' app-auth model-user change-list']/div[@id='container']/div[@id='content']/div[@id='content-main']/div[@id='changelist']/div[@id='toolbar']/form[@id='changelist-search']/div/input[2]").click()
        time.sleep(5)
        assert "Search results are produced"
-       driver.get("http://127.0.0.1:8000/admin/")
+       driver.get("http://midcityproject.pythonanywhere.com/admin/")
        time.sleep(5)
 
 

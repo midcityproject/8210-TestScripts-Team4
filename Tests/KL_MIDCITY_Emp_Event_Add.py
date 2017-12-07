@@ -9,22 +9,22 @@ class Midcity_Emp_Edit_Event(unittest.TestCase):
         self.driver = webdriver.Chrome()
 
     def test_log(self):
-        user = "klumbard"
-        pwd = "School_6"
+        user = "instructor"
+        pwd = "instructor1a"
         driver = self.driver
         driver.maximize_window()
-        driver.get("http://127.0.0.1:8000/admin/")
+        driver.get("http://midcityproject.pythonanywhere.com/admin/")
         elem = driver.find_element_by_id("id_username")
         elem.send_keys(user)
         elem = driver.find_element_by_id("id_password")
         elem.send_keys(pwd)
         elem.send_keys(Keys.RETURN)
-        driver.get("http://127.0.0.1:8000/")
+        driver.get("http://midcityproject.pythonanywhere.com/")
         assert "Logged In"
         time.sleep(5)
-        driver.get("http://127.0.0.1:8000/manage_activity/")
+        driver.get("http://midcityproject.pythonanywhere.com/manage_activity/")
         time.sleep(5)
-        driver.get("http://127.0.0.1:8000/manage_activity/create_event/")
+        driver.get("http://midcityproject.pythonanywhere.com/manage_activity/create_event/")
         time.sleep(5)
         ########Test Data########
         organization = "Test2 - Foodbank for the Heartland"
